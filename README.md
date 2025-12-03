@@ -17,7 +17,7 @@ Faceting by gender and Olympic year
 Custom styling with fonts, colors, and annotations
 
 2. Alternative Visualizations
-3. 
+
 After identifying limitations in the original plot (difficulty tracking trends over time, overlapping labels, redundant BMI categories), two improved versions are developed:
 
 Alternative Plot 1: A slope chart focusing on male athletes across 19 common sports, designed with retro 8-bit aesthetics inspired by classic sports video games. The visualization uses dotted lines connecting 1960 and 2016 BMI values, making temporal trends immediately visible.
