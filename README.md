@@ -45,12 +45,15 @@ Technical Details
 Language: R
 
 Key packages: tidyverse, ggplot2, ggrepel, showtext, viridis, gridExtra
+
 Data source: Kaggle Olympic Athletes dataset
+
 Fonts: Google Fonts (Press Start 2P, VT323 for retro aesthetic)
 
 Files
 
 Data Visualization.Rmd: Complete R Markdown document with code and analysis
+
 athlete_events.csv: Source dataset
 
 Design Philosophy
