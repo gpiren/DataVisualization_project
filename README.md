@@ -43,6 +43,7 @@ Women's sports representation was limited in 1960, creating data challenges
 Technical Details
 
 Language: R
+
 Key packages: tidyverse, ggplot2, ggrepel, showtext, viridis, gridExtra
 Data source: Kaggle Olympic Athletes dataset
 Fonts: Google Fonts (Press Start 2P, VT323 for retro aesthetic)
